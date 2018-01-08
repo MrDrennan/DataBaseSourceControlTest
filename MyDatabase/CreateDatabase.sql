@@ -1,1 +1,7 @@
-﻿
+﻿CREATE DATABASE MyDatabase
+GO
+
+USE JoeDB
+
+CREATE TABLE T1
+(/
