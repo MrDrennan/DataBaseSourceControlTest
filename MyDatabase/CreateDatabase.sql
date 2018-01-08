@@ -4,4 +4,6 @@ GO
 USE JoeDB
 
 CREATE TABLE T1
-(/
+(
+	/**/
+)
